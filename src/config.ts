@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://rohit.yadav.cloud/",
   desc: "Writing, explorations and learnings on software craftsmanship and leadership, by a lifelong open-source builder and breaker of large-scale cloud platforms.",
   title: "Patch Notes",
-  ogImage: "ry.png",
+  ogImage: "avatar.png",
   lightAndDarkMode: true,
   postPerIndex: 5,
   postPerPage: 5,
