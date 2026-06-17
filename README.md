@@ -1,1 +1,1 @@
-For ScaleNinja's Public Bug Tracking & User Discussions
+For ScaleNinja's Public Issue Tracker & User Discussions
