@@ -10,6 +10,8 @@ assignees: ''
 **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
+Please specify the name of the software, app or tool it affects [eg. MacVisor, DeltaSnap, Noject]
+
 **Describe the solution you'd like**
 A clear and concise description of what you want to happen.
 
